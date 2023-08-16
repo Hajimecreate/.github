@@ -1,17 +1,21 @@
-#  Hajimecreate Web Developers!
+# [株式会社ハジメクリエイト](https://hajimecreate.com/)
+弊社はWebの制作と運用、Webシステムの開発をメインにやっている会社です。  
+岡山に拠点がある会社なのですが、お客様は東京・北陸から九州まで広がっています。
 
-## コーディング規約
-- https://hackmd.io/@hajime-tsukamoto/SkISKZD8h
+## 私たちの強み
+私たちの強みは問題解決力だと思っており、Web制作はお客様の目的を達成するための「手段」と考えています。  
+というのも、お客様がWeb制作や運用に当たって本当に望まれていることは、売上の向上や問い合わせ数の増加だからです。  
+  
+Webシステム開発の場合、望まれているのは社内工数の削減です。  
+そこで、私たちは目的をどう実現するかを考えて企画し、デザインで表現します。  
+こういった問題解決力が評価され、Webページを制作した後も、運用を担当させていただくことが多くなっています。  
 
-こちらを参考に、コードの自動整形設定を行なってください。
+集客設計に自信あり！お問い合わせは[コチラ](https://hajimecreate.com/contact/)からお願いします！
 
-<!--
+## ハジメクリエイトの様子
+スタッフブログやFacebookで社内の雰囲気を見ることができます🎉
+- [ハジメラボ](https://hajimecreate.com/hajimelabo/)
+- [Facebook](https://www.facebook.com/hajimecreate/)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 技術情報
+- [XserverでディレクトリごとにPHPバージョンを変更する方法](https://hajimecreate.com/labo/change_php_ver_by_directory/)
